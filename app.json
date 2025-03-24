@@ -1,0 +1,11 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#07c160",
+    "navigationBarTitleText": "每日签语",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#f5f5f5"
+  }
+}

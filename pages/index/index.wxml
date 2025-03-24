@@ -1,0 +1,6 @@
+<view class="container">
+  <view class="card" animation="{{animationData}}">
+    <text class="quote">{{currentQuote}}</text>
+  </view>
+  <button class="draw-btn" bindtap="drawCard">点击抽卡</button>
+</view>
